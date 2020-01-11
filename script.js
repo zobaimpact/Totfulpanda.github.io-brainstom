@@ -6,6 +6,8 @@
   let relationshipQuotes;
   let christianityQuotes;
   let movieQuotes;
+  let bookQuotes;
+  let africanQuotes;
 
   //Quotes Containers
   
@@ -136,10 +138,287 @@
 
   ];
 
+  bookQuotes = [
+
+      {
+        quote: "There are five billion people living on this planet. But you fall in love with one particular person, and you won't swap her for any other.",
+        author: "Jostein Gaarder, The Solitaire Mystery"
+      },
   
+      {
+        quote: "People generally see what they look for and hear what they listen for.",
+        author: "Harper Lee, To Kill a Mockingbird" 
+      },
+  
+      {
+        quote: "You don't get to choose if you get hurt in this world...but you do have some say in who hurts you.",
+        author: "John Green, The Fault In Our Stars"
+      },
+  
+      {
+        quote: "The world is not a wish-granting factory",
+        author: "John Green, The Fault In Our Stars"
+      },
+  
+      {
+        quote: "Destroying things is much easier than making them.",
+        author: "Suzanne Collins, The Hunger Games"
+      },
+  
+      {
+        quote: "To be successful you need friends and to be very successful you need enemies.",
+        author: "Sidney Sheldon, The Other Side of Midnight"
+      },
+  
+      {
+        quote: "Life is like a novel. It's filled with suspense. You have no idea what is going to happen until you turn the page.",
+        author: "Sidney Sheldon"
+      },
+  
+      {
+        quote: "It's much better to do good in a way that no one knows anything about it.",
+        author: "Leo Tolstoy, Anna Karenina"
+      },
+  
+      {
+        quote: "There comes a time when you have to choose between turning the page and closing the book.",
+        author: "Josh Jameson"
+      },
+  
+      {
+        quote: "I think of life as a good book. The further you get into it, the more it begins to make sense.",
+        author: "Harold Kushner"
+      },
+  
+      {
+        quote: "If you only read the books that everyone else is reading, you can only think what everyone else is thinking.",
+        author: "Haruki Murakami"
+      },
+  
+      {
+        quote: "There are many little ways to enlarge your child’s world. Love of books is the best of all.",
+        author: "Jacqueline Kennedy Onassis"
+      },
+
+      {
+        quote: "True education starts when a man discovers what he can die for, and then start acquiring knowledge on how to live for it.",
+        author: "Gerald Okafor"
+      },
+  
+      {
+        quote: "Great books help you understand, and they help you feel understood.",
+        author: "John Green"
+      },
+  
+      {
+        quote: "A book is a version of the world. If you do not like it, ignore it or offer your own version in return.",
+        author: "Salman Rushdie"
+      },
+  
+      {
+        quote: "Keep reading books, but remember that a book is only a book, and you should learn to think for yourself.",
+        author: "Maxim Gorky"
+      },
+  
+      {
+        quote: "There are perhaps no days of our childhood we lived so fully as those we spent with a favorite book.",
+        author: "Marcel Proust"
+      },
+  
+      {
+        quote: "A book is the only place in which you can examine a fragile thought without breaking it.",
+        author: "Edward P. Morgan"
+      },
+  
+      {
+        quote: "If one cannot enjoy reading a book over and over again, there is no use in reading it at all.",
+        author: "Oscar Wilde"
+      },
+  
+      {
+        quote: "Read the best books first, or you may not have a chance to read them at all.",
+        author: "Henry David Thoreau"
+      },
+  
+      {
+        quote: "Make it a rule never to give a child a book you would not read yourself.",
+        author: "George Bernard Shaw"
+      },
+  
+      {
+        quote: "I can’t imagine a man really enjoying a book and reading it only once.",
+        author: "C.S. Lewis"
+      },
+  
+      {
+        quote: "One always has a better book in one’s mind than one can manage to get onto paper.",
+        author: "Michael Cunningham"
+      },
+  
+      {
+        quote: "There are worse crimes than burning books. One of them is not reading them.",
+        author: "Joseph Brodsky"
+      },
+  
+      {
+        quote: "You know you’ve read a good book when you turn the last page and feel a little as if you have lost a friend.",
+        author: "Paul Sweeney"
+      },
+  
+      {
+        quote: "A good book has no ending.",
+        author: "R.D. Cumming"
+      },
+  
+  
+    ];
+  
+  
+
+  
+    africanQuotes = [
+
+      {
+        quote: "The fool speaks, the wise man listens.",
+        author: "Ethiopian proverb"
+      },
+  
+      {
+        quote: "Marriage is like a groundnut; you have to crack it to see what is inside.",
+        author: "Ghanaian proverb"
+      },
+  
+      {
+        quote: "Patience can cook a stone.",
+        author: "African proverb"
+      },
+  
+      {
+        quote: "However long the night, the dawn will break.",
+        author: "African proverb"
+      },
+  
+      {
+        quote: "He who eats another man's food will have his own food eaten by others.",
+        author: "Swahili proverb"
+      },
+  
+      {
+        quote: "Water is colourless and tasteless but you can live on it longer than eating food.",
+        author: "African proverb"
+      },
+  
+      {
+        quote: "If you want to go fast, go alone. If you want to go far, go together.",
+        author: "African proverb"
+      },
+  
+      {
+        quote: "A man who makes trouble for others is also making trouble for himself.",
+        author: "Chinua Achebe"
+      },
+  
+      {
+        quote: "If you think you are too small to make a difference, you haven’t spent a night with a mosquito.",
+        author: "African proverb"
+      },
+  
+      {
+        quote: "Education is the most powerful weapon which you can use to change the world.",
+        author: "Nelson Mandela"
+      },
+  
+      {
+        quote: "If you are filled with pride, then you will have no room for wisdom.",
+        author: "African proverb"
+      },
+
+      {
+        quote: "When the missionaries came to Africa, we had the lands and they had the Bible,they thought us how to pray with our eyes closed, the the time we opened them, they had the lands and we had the Bible.",
+        author: "Jomo Kenyatta"
+      },
+  
+      {
+        quote: "Do not try to fight a lion if you are not one yourself.",
+        author: "African proverb"
+      },
+      
+  
+      {
+        quote: "A good thing sells itself, a bad one advertises itself.",
+        author: "African proverb"
+      },
+  
+      {
+        quote: "It is better to be loved than feared.",
+        author: "African proverb"
+      },
+  
+      {
+        quote: "Whether the knife falls on the melon or the melon on the knife, the melon suffers.",
+        author: "African proverb"
+      },
+  
+      {
+        quote: "Not to know is bad. Not to wish to know is worse.",
+        author: "African proverb"
+      },
+  
+      {
+        quote: "Ears that do not listen to advice, accompany the head when it is chopped off.",
+        author: "African proverb"
+      },
+  
+      {
+        quote: "A happy man marries the girl he loves, but a happier man loves the girl he marries.",
+        author: "African proverb"
+      },
+  
+      {
+        quote: "The wise create proverbs for fools to learn, not to repeat.",
+        author: "African proverb"
+      },
+  
+      {
+        quote: "Brothers love each other when they are equally rich.",
+        author: "African proverb"
+      },
+  
+      {
+        quote: "He who earns calamity, eats it with his family.",
+        author: "African proverb"
+      },
+  
+      {
+        quote: "When the mouse laughs at the cat, there is a hole nearby",
+        author: "African proverb"
+      },
+  
+      {
+        quote: "Knowledge without wisdom is like water in the sand.",
+        author: "African proverb"
+      },
+  
+      {
+        quote: "When brothers fight to the death, a stranger inherits their father’s estate.",
+        author: "African proverb"
+      },
+  
+      {
+        quote: "To get lost is to learn the way.",
+        author: "African proverb"
+      },
+  
+  
+    ];
 
 
   lifeQuotes = [
+
+    {
+      quote: "Life is what happens between birth and death.",
+      autho: "Gerald Okafor"
+    },
 
     {
       quote: "Don't cry because it's over, smile because it happened.",
@@ -821,14 +1100,14 @@ $(document).ready(function () {
     $("#nav-bar-btn-" + k).addClass('black-bottom-border');
   }
 
-  //Navigation
+  Navigation
 
-  // $("#nav-bar-books, #home-books").click(function () {
-  //   x = bookQuotes;
-  //   k = "books";
-  //   $("#page").attr('class', 'background-style-' + k);
-  //   activeState();
-  // });
+  $("#nav-bar-books, #home-books").click(function () {
+    x = bookQuotes;
+    k = "books";
+    $("#page").attr('class', 'background-style-' + k);
+    activeState();
+  });
 
   $("#nav-bar-relationships, #home-relationships").click(function () {
     x = relationshipQuotes;
@@ -837,12 +1116,12 @@ $(document).ready(function () {
     activeState();
   });
 
-  // $("#nav-bar-african, #home-african").click(function () {
-  //   x = africanQuotes;
-  //   k = "african";
-  //   $("#page").attr('class', 'background-style-' + k);
-  //   activeState();
-  // });
+  $("#nav-bar-african, #home-african").click(function () {
+    x = africanQuotes;
+    k = "african";
+    $("#page").attr('class', 'background-style-' + k);
+    activeState();
+  });
 
   $("#nav-bar-sports, #home-sports").click(function () {
     x = sportsQuotes;
