@@ -9,4 +9,4 @@ Generate quotes for Books, Relationships, Sports, Life, Movies, Startups, Africa
 * [jQuery](https://jquery.com/)
 * [Bootstrap](http://getbootstrap.com/)
 
-Live WebApp: https://totfulpanda.github.io/quote-generator
+Live WebApp:https://totfulpanda.github.io/Totfulpanda.github.io-brainstom/
