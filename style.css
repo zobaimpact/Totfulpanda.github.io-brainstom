@@ -8,6 +8,7 @@ body {
   margin: 0;
    }
 
+
 article,
 aside,
 details,
@@ -658,10 +659,12 @@ a {
 .headline {
   font-family: 'Love Ya Like A Sister', cursive;
   font-size: 5em;
-  text-align: center; }
+  text-align: center;
+color:white; }
 
 .intro {
-  font-size: 1.2em; }
+  font-size: 1.2em;
+color:white; }
 
 .navigation {
   background-color: #fff; }
@@ -779,7 +782,8 @@ h4:hover {
     padding-top: 10px; } }
 #copyright-info {
   margin-top: 2em;
-  text-align: center; }
+  text-align: center;
+color:white; }
 
 .background-style-sports {
   background: url("http://i.imgur.com/SWyj4km.jpg") top center no-repeat;

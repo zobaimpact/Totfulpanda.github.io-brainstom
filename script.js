@@ -1071,10 +1071,10 @@ $(document).ready(function () {
 
   //Variables
 
-  var x = startupQuotes;
-  var i = 0;
-  var m;
-  var k;
+  let x = startupQuotes;
+  let i = 0;
+  let m;
+  let k;
 
   //Functions
 
@@ -1100,7 +1100,7 @@ $(document).ready(function () {
     $("#nav-bar-btn-" + k).addClass('black-bottom-border');
   }
 
-  Navigation
+  // Navigation
 
   $("#nav-bar-books, #home-books").click(function () {
     x = bookQuotes;
@@ -1199,7 +1199,7 @@ $(document).ready(function () {
   //Tweet Button
   
   $(".btn-tweet").click(function () {
-    var width  = 575,
+    let width  = 575,
         height = 400,
         left   = ($(window).width()  - width)  / 2,
         top    = ($(window).height() - height) / 2,
